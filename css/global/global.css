@@ -2,7 +2,6 @@ body {
   color: #111111;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0px;
-  padding-bottom: 600px;
 }
 
 a {
@@ -10,6 +9,7 @@ a {
   color: inherit;
 }
 
+blockquote,
 h1,
 h2,
 h3,
